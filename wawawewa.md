@@ -1,3 +1,5 @@
-# Wa wa wee wa!
+# Hello World
 
-Very nice!
+```python
+print("Hello, World!")
+```
